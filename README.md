@@ -2,7 +2,7 @@
 
 ## Description
 There are 2 players: Left and Right. Each player has a paddle and the aim is to not miss the ball. 
-The scoreboard keeps track of scores of  both players. If a player misses the ball wight its paddle, 
+The scoreboard keeps track of scores of  both players. If a player misses the ball with its paddle, 
 the other player gets a point. 
 
 The following events are tracked:
