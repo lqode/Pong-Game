@@ -10,7 +10,7 @@ The following events are tracked:
 - When a player hits the ball with the paddle, the ball goes towards the other player.
 - When a player misses the ball, a point is awarded to the other player.
 
-**Keywords**: Classes, Inheritance, OOP.
+**Keywords**: Classes, Inheritance, OOP, Python.
 
 ## Requirements
 Used Python 3.8 for development
